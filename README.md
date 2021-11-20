@@ -3,5 +3,8 @@ Blockchain on local computer made with the help of codecademy.com and with pytho
 
 <a href="Basic-Blockchain-Example/caleb_blockchain_Codecademy.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
+![](Basic-Blockchain-Example/certificate.png)
+
+
 
 
